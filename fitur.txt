@@ -1,0 +1,7 @@
+- admin home
+- admin aboutUs
+- admin service
+- admin blog
+- admin ourTeacher
+- admin contact
+- login
